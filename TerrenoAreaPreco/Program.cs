@@ -4,16 +4,13 @@
 //o programa deve mostrar o valor da área do terreno, bem como o valor do preço do terreno, ambos com
 //duas casas decimais
 
-using System.Diagnostics.Metrics;
-using System.Runtime.ConstrainedExecution;
-
 namespace TerrenoAreaPreco
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Digite a largura do terreno:");
         }
     }
 }
